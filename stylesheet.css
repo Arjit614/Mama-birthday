@@ -1,0 +1,31 @@
+body {
+  background-color: #ffa5a5;
+}
+
+marquee {
+  font-size: 100px;
+  font-family: 'Commissioner', sans-serif;
+}
+
+img {
+  margin: 50 500px;
+  height: 400px;
+  width: 400px;
+  border: 20px groove #d7385e
+}
+
+.carousel slide {
+  margin: 250px;
+}
+
+.carousel images {
+  height: 400px;
+  width: 400px;
+}
+
+@media (max-width: 1028px; ) {
+  .carosel slide{
+    height:4000px;
+    width:4000px;
+  }
+}
